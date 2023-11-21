@@ -6,6 +6,12 @@ I wrote the Sokoban game from scratch in 1 week, including :
 * A level editor for 10 playable levels
 * Multiplayer for 2 player parties
 
+Written Windows only for now.
+
+# How to play
+
+Clone repository and go to bin folder and execute main.exe
+
 ![image](https://user-images.githubusercontent.com/98561646/235479762-02ce447a-3b15-4cd0-8937-8db486b3d144.png)
 
 ![image](https://user-images.githubusercontent.com/98561646/235479798-033f294f-870a-475d-befc-f9aadb968615.png)
