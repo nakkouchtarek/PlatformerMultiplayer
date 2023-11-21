@@ -1,1 +1,0 @@
-clang server.c -o server -lWs2_32
